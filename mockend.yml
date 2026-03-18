@@ -1,0 +1,7 @@
+- model: Transaction  
+  fields:
+    id: integer
+    transaction: string
+    amount: double
+    date: date
+    status: boolean
